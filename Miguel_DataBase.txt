@@ -1,0 +1,196 @@
+8
+Benfica
+Miguel
+1 0 0
+5 0 3 1
+71 26
+SL Benfica
+Rui Vitoria
+1 3 1 0 0 4 0 83 80
+FC Porto
+Sergio Conceicao
+2 3 1 0 0 2 0 84 80
+SC Braga
+Abel Ferreira
+3 3 1 0 0 2 1 78 80
+Rio Ave FC
+Miguel Cardoso
+7 0 0 0 1 1 2 75 50
+Sporting CP
+Jorge Jesus
+6 0 0 0 1 0 2 80 50
+Maritimo M.
+Claudio Braga
+5 0 0 0 1 0 4 65 50
+Academica OAF
+Francisco Costa
+4 0 0 0 1 0 5 61 50
+Academica OAF
+Benfica
+0 - 5
+SC Braga
+Rio Ave FC
+2 - 1
+FC Porto
+Sporting CP
+2 - 0
+SL Benfica
+Maritimo M.
+4 - 0
+SC Braga
+Benfica
+-1 - -1
+FC Porto
+Rio Ave FC
+-1 - -1
+SL Benfica
+Sporting CP
+-1 - -1
+Academica OAF
+Maritimo M.
+-1 - -1
+FC Porto
+Benfica
+-1 - -1
+SL Benfica
+Rio Ave FC
+-1 - -1
+Academica OAF
+Sporting CP
+-1 - -1
+SC Braga
+Maritimo M.
+-1 - -1
+SL Benfica
+Benfica
+-1 - -1
+Academica OAF
+Rio Ave FC
+-1 - -1
+SC Braga
+Sporting CP
+-1 - -1
+FC Porto
+Maritimo M.
+-1 - -1
+Rio Ave FC
+Benfica
+-1 - -1
+Maritimo M.
+Sporting CP
+-1 - -1
+SC Braga
+Academica OAF
+-1 - -1
+FC Porto
+SL Benfica
+-1 - -1
+Maritimo M.
+Benfica
+-1 - -1
+Rio Ave FC
+Sporting CP
+-1 - -1
+Academica OAF
+SL Benfica
+-1 - -1
+FC Porto
+SC Braga
+-1 - -1
+Benfica
+Sporting CP
+-1 - -1
+Maritimo M.
+Rio Ave FC
+-1 - -1
+SC Braga
+SL Benfica
+-1 - -1
+FC Porto
+Academica OAF
+-1 - -1
+Academica OAF
+Benfica
+-1 - -1
+SC Braga
+Rio Ave FC
+-1 - -1
+FC Porto
+Sporting CP
+-1 - -1
+SL Benfica
+Maritimo M.
+-1 - -1
+SC Braga
+Benfica
+-1 - -1
+FC Porto
+Rio Ave FC
+-1 - -1
+SL Benfica
+Sporting CP
+-1 - -1
+Academica OAF
+Maritimo M.
+-1 - -1
+FC Porto
+Benfica
+-1 - -1
+SL Benfica
+Rio Ave FC
+-1 - -1
+Academica OAF
+Sporting CP
+-1 - -1
+SC Braga
+Maritimo M.
+-1 - -1
+SL Benfica
+Benfica
+-1 - -1
+Academica OAF
+Rio Ave FC
+-1 - -1
+SC Braga
+Sporting CP
+-1 - -1
+FC Porto
+Maritimo M.
+-1 - -1
+Rio Ave FC
+Benfica
+-1 - -1
+Maritimo M.
+Sporting CP
+-1 - -1
+SC Braga
+Academica OAF
+-1 - -1
+FC Porto
+SL Benfica
+-1 - -1
+Maritimo M.
+Benfica
+-1 - -1
+Rio Ave FC
+Sporting CP
+-1 - -1
+Academica OAF
+SL Benfica
+-1 - -1
+FC Porto
+SC Braga
+-1 - -1
+Benfica
+Sporting CP
+-1 - -1
+Maritimo M.
+Rio Ave FC
+-1 - -1
+SC Braga
+SL Benfica
+-1 - -1
+FC Porto
+Academica OAF
+-1 - -1
+2
